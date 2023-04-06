@@ -5,7 +5,7 @@ Application under test:
 
 API Documentation:
 
-**The final project will be split into 2 sections:** [Testing section] and [SQL section]
+**The final project will be split into 2 sections:** [Testing section]() and [SQL section]()
 
 Tools used:
 
