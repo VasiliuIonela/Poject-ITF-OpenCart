@@ -35,8 +35,10 @@ The plan identifies the items to be tested, the features to be testedm the types
 *
 ## 1.4 Test Design
 > Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the  test design techniques used for generating test cases are:
+
 **Test cases**: -> enter here test cases or at least the titles
->The test cases with steps can be viewed here: [test_cases.pdf]().
+
+The test cases with steps can be viewed here: [test_cases.pdf]().
 ## 1.5 Test implementation
 > The following elements are needed to be ready before the test execution phase begins:
 * enter here what needs to be reeady for the test execution  to begin
