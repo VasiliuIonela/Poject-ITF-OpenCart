@@ -18,10 +18,13 @@ The Test Plan is designed to describe all details of testing for the X module fr
 The plan identifies the items to be tested, the features to be testedm the types of testing to be performed, the personnel responsible for the testing, the resources and the schedule required to complete testing, and the risks associated with the plan
 ### 1.1.1 Roles asigned to the project and persons allocated
 ### 1.1.2 Entry criteria defined
+### 1.1.3 Exit criteria defined
 ### 1.1.4 Test scope
-* Tests in scope
-* Tests not in scope
+* Tests in scope:
+* Tests not in scope:
 ### 1.1.5 Risks detected
+* Project risks:
+* Product risks:
 ### 1.1.6 Evaluating entry criteria
 > The entry criterias defined in th Test Planning phase have been achieved and the test process can continue.
  ## 1.2 Test Monitoring and Control
