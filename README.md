@@ -1,4 +1,11 @@
 # Proiect-Practic-Testare-Manuala
+The scope of the final project for ITF Manual Tesing Course is to  use all gained knowledge throught the course and apply them in practice, using a live application.
+Application under test:
+API Documentation:
+**The final project will be split into 2 sections:** [Testing section] and [SQL section]
+Tools used:
+# Functionals specifications
+->enter here the functional specifications cretaed in JIRA
 # 1 Testing section
 ## 1.1 Test Planning
 ### 1.1.1 Roles asigned to the project and persons allocated
