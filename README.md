@@ -1,30 +1,34 @@
 # Proiect-Practic-Testare-Manuala
-# Testing section
-## Test Planning
-### Roles asigned to the project and persons allocated
-### Entry criteria defined
-### Test scope
+# 1 Testing section
+## 1.1 Test Planning
+### 1.1.1 Roles asigned to the project and persons allocated
+### 1.1.2 Entry criteria defined
+### 1.1.4 Test scope
 * Tests in scope
 * Tests not in scope
-### Risks detected
-### Evaluating entry criteria
+### 1.1.5 Risks detected
+### 1.1.6 Evaluating entry criteria
 > The entry criterias defined in th Test Planning phase have been achieved and the test process can continue.
- ## Test Monitoring and Control
+ ## 1.2 Test Monitoring and Control
 > It will be done by generating periodic reports that reflect the current status of the test.
-## Test Analysis
+## 1.3 Test Analysis
 > The testing process will be executed based on the above  requirements for the Dependents module. The following test conditions were found: 
 *
 *
-## Test Design
+## 1.4 Test Design
 > Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the  test design techniques used for generating test cases are:
 **Test cases**: -> enter here test cases or at least the titles
 >The test cases with steps can be viewed here: [test_cases.pdf]().
-##Test implementation
+## 1.5 Test implementation
 > The following elements are needed to be ready before the test execution phase begins:
 * enter here what needs to be reeady for the test execution  to begin
-## Test Execution
+## 1.6 Test Execution
+* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
+  -enter here bug titles
+  ## 1.7 Test Completion
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
 * Test execution chart was generaetd, the final report shows...describe it
 -enter here the final report
-# SQL section
+# 2 SQL section
