@@ -1,7 +1,7 @@
 # My Project in Manual Testing IT Factory
 The scope of the final project for ITF Manual Tesing Course is to  use all gained knowledge throught the course and apply them in practice, using a live application.
 
-Application under test: https://demo.opencart.com/
+Application under test: https://demo.opencart.com/admin/
 
 Documentation: http://docs.opencart.com/en-gb/introduction/
 
@@ -12,7 +12,7 @@ API Documentation: https://docs.opencart.com/en-gb/system/users/api/
 Tools used: JIRA, Zephyr Squad.
 
 # Functionals specifications
--> The below Story was created in JIRA and describes the functional specifications of the Manufacturers module in the administration interface, for which the final project is performed upon.
+ The below Story was created in JIRA and describes the functional specifications of the Manufacturers module in the administration interface, for which the final project is performed upon.
 
 The Manufacturer section is used to categorize products by manufacturer. This section can be accessed under Catalog > Manufacturers.
 
