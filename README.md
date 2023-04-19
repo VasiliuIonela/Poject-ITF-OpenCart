@@ -7,12 +7,25 @@ Documentation: http://docs.opencart.com/en-gb/introduction/
 
 API Documentation: https://docs.opencart.com/en-gb/system/users/api/
 
-**The final project will be split into 2 sections:** [Testing section]() and [SQL section](https://github.com/VasiliuIonela/Proiect-Practic-Testare-Manuala/edit/main/README.md#2-sql-section)
+**The final project will be split into 2 sections:** [Testing section](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/blob/main/README.md#1-testing-section) and [SQL section](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/edit/main/README.md#2-sql-section)
 
-Tools used:
+Tools used: JIRA, Zephyr Squad.
 
 # Functionals specifications
-->enter here the functional specifications cretaed in JIRA
+-> The below Story was created in JIRA and describes the functional specifications of the Manufacturers module in the administration interface, for which the final project is performed upon.
+
+The Manufacturer section is used to categorize products by manufacturer. This section can be accessed under Catalog > Manufacturers.
+
+The manufacturer information should be created before products are added, so the manufacturer category can be selected when adding the product. Saving a product without including the manufacturer isn't advised, because customers can search for products in the store front through their manufacturer page. With the manufacturer missing from the product information, the product will not be available on those pages. The Manufacturer names can be deleted, and new manufacturer information can be added in its place.
+
+To insert a new manufacturer, the following information is required:
+
+Manufacturer name
+Stores: Default will be selected if there is only one store. If you have more than one store using OpenCart, you can add a manufacturer to multiple stores by checking on them.
+SEO Keyword: the keyword used for search engine optimization (optional).
+Image: an image of the manufacturer (optional).
+Sort Order: the position the manufacturer will be sorted among multiple manufacturers (optional).
+
 # 1 Testing section
 ## 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the X module from Orange HRM application.
