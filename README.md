@@ -83,15 +83,11 @@ The testing process will be executed based on the above  requirements for the De
 *  Check the functionality of 'Edit' button in the 'Image' field.
 *  Check the functionality of "Clear" button in teh 'Image' field.
 *  Check the functionality of 'Sort Order' field.
-
 * Check the functionality of 'Save' button when valid data is entered.
 * Check the functionaity of 'Save" button when fields are left in blank.
-*  
-
 * Check the functionality of 'SEO' field.
 * Check the functionality of 'Design' field.
 *  Check the functionality of the 'Back' icon.
-*
 ## 1.4 Test Design
  Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the  test design techniques used for generating test cases are:
 
@@ -100,13 +96,20 @@ The testing process will be executed based on the above  requirements for the De
 The test cases with steps can be viewed here: [test_cases.pdf]().
 ## 1.5 Test implementation
  The following elements are needed to be ready before the test execution phase begins:
-* enter here what needs to be reeady for the test execution  to begin
+* Testing environment is up and running: https://demo.opencart.com/admin/
+* QA testers have completely understood the requirements.
+*	Create and prioritize test cases.
+* Access to the testing environment is given: 	Username: demo | Password: demo
+* Cycle summary was created.
+* Test cases were added to the cycle summary.
+* Preparing test data and ensuring it is properly loaded in the test environment.
 ## 1.6 Test Execution
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
   -enter here bug titles
+  * Full regression testing is needed after the bugs are fixed.
   ## 1.7 Test Completion
-* Exit criteria was evaluated and passed
+* Exit criteria was evaluated and passed.
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
 * Test execution chart was generaetd, the final report shows...describe it
 -enter here the final report
