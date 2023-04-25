@@ -33,8 +33,7 @@ The Test Plan is designed to describe all details of testing for the Manufacture
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for the testing, the resources and the schedule required to complete testing, and the risks associated with the plan.
 ### 1.1.1 Roles asigned to the project and persons allocated
 * Project manager:
-* Product owner:
-* Software developer:
+* Qa Lead:
 * QA Engineer: Ionela Vasiliu
 ### 1.1.2 Entry criteria defined
 * functional specifications are defined
@@ -48,18 +47,50 @@ The plan identifies the items to be tested, the features to be tested, the types
 * no detected major risk remained un-mitigated
 * exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 ### 1.1.4 Test scope
-* Tests in scope:
-* Tests not in scope:
+* Tests in scope: The scope of this project is limited to the testing of the features in the succeeding sections of this document. Functional testing are in scope and needed to be tested.
+* Tests not in scope:  Non-functional testing like performance, security testing is beyond scope of this project.  Automation testing is beyond scope.
 ### 1.1.5 Risks detected
-* Project risks:
-* Product risks:
+* Project risks: 
+●	the development team won’t have the necessary training for these tasks.
+●	the database won’t support such a high volume of dates.
+●	tight deadline.
+●	sick personnel.
+●	a few team members.
+●	not having the necessary hardware equipment.
+●	misunderstanding of the requirements.
+
+* Product risks: ●	Low performance of the OpenCart platform.
+●	Not having customer’s requests.
+●	Application will crash.
+
 ### 1.1.6 Evaluating entry criteria
 The entry criterias defined in th Test Planning phase have been achieved and the test process can continue.
  ## 1.2 Test Monitoring and Control
  It will be done by generating periodic reports that reflect the current status of the test.
 ## 1.3 Test Analysis
-The testing process will be executed based on the above  requirements for the Dependents module. The following test conditions were found: 
-*
+The testing process will be executed based on the above  requirements for the Dependents module. The following **test conditions** were found: 
+
+* In the administration interface, check the functionality of the 'Manufacturer' section.
+* Check the functionality of selecting dropdown list in the 'Manufacturer list'.
+*  Check the functionality of 'Sort Order' field.
+* check the functionality of 'Edit' button from the Manufacturer list.
+*  Check the functionality of 'Delete" button when a Manufacturer Name is selected.
+* Check the functionality of adding new manufacturer information.
+* check the functionality of 'Stores' when only one store is created.
+*  Check the functionality of 'Stores' when more stores are existing using the platform.
+* Check the functionality of 'General' field.
+*  Check the functionality of 'Manufacturer Name' feature.
+*  Check the functionality of 'Edit' button in the 'Image' field.
+*  Check the functionality of "Clear" button in teh 'Image' field.
+*  Check the functionality of 'Sort Order' field.
+
+* Check the functionality of 'Save' button when valid data is entered.
+* Check the functionaity of 'Save" button when fields are left in blank.
+*  
+
+* Check the functionality of 'SEO' field.
+* Check the functionality of 'Design' field.
+*  Check the functionality of the 'Back' icon.
 *
 ## 1.4 Test Design
  Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the  test design techniques used for generating test cases are:
