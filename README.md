@@ -50,25 +50,18 @@ The plan identifies the items to be tested, the features to be tested, the types
 * Tests in scope: The scope of this project is limited to the testing of the features in the succeeding sections of this document. Functional testing are in scope and needed to be tested.
 * Tests not in scope:  Non-functional testing like performance, security testing is beyond scope of this project.  Automation testing is beyond scope.
 ### 1.1.5 Risks detected
-* Project risks: 
-●	the development team won’t have the necessary training for these tasks.
-●	the database won’t support such a high volume of dates.
-●	tight deadline.
-●	sick personnel.
-●	a few team members.
-●	not having the necessary hardware equipment.
-●	misunderstanding of the requirements.
-
-* Product risks: ●	Low performance of the OpenCart platform.
-●	Not having customer’s requests.
-●	Application will crash.
+* Project risks: the development team won’t have the necessary training for these tasks,	the database won’t support such a high volume of dates,	tight deadline,	sick personnel,	a few team members,	not having the necessary hardware equipment,	misunderstanding of the requirements.
+* Product risks: Low performance of the OpenCart platform,	not having customer’s requests,	application will crash.
 
 ### 1.1.6 Evaluating entry criteria
 The entry criterias defined in th Test Planning phase have been achieved and the test process can continue.
  ## 1.2 Test Monitoring and Control
  It will be done by generating periodic reports that reflect the current status of the test.
 ## 1.3 Test Analysis
-The testing process will be executed based on the above  requirements for the Dependents module. The following **test conditions** were found: 
+
+The testing process will be executed based on the above  requirements for the Dependents module. 
+
+The following **test conditions** were found: 
 
 * In the administration interface, check the functionality of the 'Manufacturer' section.
 * Check the functionality of selecting dropdown list in the 'Manufacturer list'.
