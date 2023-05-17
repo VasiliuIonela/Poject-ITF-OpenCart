@@ -59,28 +59,24 @@ The entry criterias defined in th Test Planning phase have been achieved and the
  It will be done by generating periodic reports that reflect the current status of the test.
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above  requirements for the Dependents module. 
+The testing process will be executed based on the above  requirements for the 'Manufacturers' module. 
 
 The following **test conditions** were found: 
-
-* In the administration interface, check the functionality of the 'Manufacturer' section.
-* Check the functionality of selecting dropdown list in the 'Manufacturer list'.
-*  Check the functionality of 'Sort Order' field.
-* check the functionality of 'Edit' button from the Manufacturer list.
-*  Check the functionality of 'Delete" button when a Manufacturer Name is selected.
-* Check the functionality of adding new manufacturer information.
-* check the functionality of 'Stores' when only one store is created.
-*  Check the functionality of 'Stores' when more stores are existing using the platform.
-* Check the functionality of 'General' field.
-*  Check the functionality of 'Manufacturer Name' feature.
-*  Check the functionality of 'Edit' button in the 'Image' field.
-*  Check the functionality of "Clear" button in teh 'Image' field.
-*  Check the functionality of 'Sort Order' field.
-* Check the functionality of 'Save' button when valid data is entered.
-* Check the functionaity of 'Save" button when fields are left in blank.
-* Check the functionality of 'SEO' field.
-* Check the functionality of 'Design' field.
-*  Check the functionality of the 'Back' icon.
+* Check if a user is able to access the 'Manufacturers' section.
+* Check if a user is able to access the 'Sort Order' option.
+* Check if a user is able to edit a manufacturer by pressing 'Edit ' button in the richt.
+* Check if a user is able to delete a manufacturer name.
+* Check if a user is able to select a manufacturer from the list.
+* Check if a user is able to add a manufacturer name.
+* Check if a user is able to select store when more store are existing using the platform.
+* Check if a user is able to complete fileds in 'general feature" with valid information.
+* Check if a user is able to complete fileds in 'general feature" with invalid information.
+*  Check if a user is able to edit image in "general feature" "image" field.
+*  Check if a user is able to delete image in "general feature" " image" field.
+* Check if a user is able to add manufacutrer when fields are left in blank.
+* Check if a user is able to access the 'SEO' feature.
+* Check if a user is able to access the 'Design' feature.
+*  Check  if a user is able to click  'Back' icon.
 ## 1.4 Test Design
  Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the  test design techniques used for generating test cases are:
 
