@@ -13,6 +13,7 @@ Tools used: JIRA, Zephyr Squad.
 
 # Functionals specifications
  The below Story was created in JIRA and describes the functional specifications of the Manufacturers module in the administration interface, for which the final project is performed upon.
+ ![image](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/blob/main/Web%20capture_19-5-2023_84155_itfclasses.atlassian.net.jpeg)
 
 The Manufacturer section is used to categorize products by manufacturer. This section can be accessed under Catalog > Manufacturers.
 
