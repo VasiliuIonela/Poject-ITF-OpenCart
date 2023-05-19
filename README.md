@@ -62,10 +62,10 @@ The entry criterias defined in th Test Planning phase have been achieved and the
 The testing process will be executed based on the above  requirements for the 'Manufacturers' module. 
 
 The following **test conditions** were found: 
-* Check if a user is able to access the 'Manufacturers' section.
-* Check if a user is able to access the 'Sort Order' option.
-* Check if a user is able to edit a manufacturer by pressing 'Edit ' button in the richt.
-* Check if a user is able to delete a manufacturer name.
+* Check if an Admin is able to access the 'Manufacturers' section.
+* Check if an Admin is able to access the 'Sort Order' option.
+* Check if an Admin is able to edit a manufacturer by pressing 'Edit ' button in the richt.
+* Check if an Admin is able to delete a manufacturer name.
 * Check if a user is able to select a manufacturer from the list.
 * Check if a user is able to add a manufacturer name.
 * Check if a user is able to select store when more store are existing using the platform.
