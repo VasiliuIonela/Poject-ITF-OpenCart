@@ -96,7 +96,6 @@ The test cases with steps can be viewed here: [test_cases.pdf]().
 ## 1.6 Test Execution
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-  -enter here bug titles
   * Full regression testing is needed after the bugs are fixed.
   ## 1.7 Test Completion
 * Exit criteria was evaluated and passed.
