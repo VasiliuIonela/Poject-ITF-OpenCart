@@ -68,7 +68,7 @@ The following **test conditions** were found: [test conditions](https://github.c
 
 **Test cases**: -> enter here test cases or at least the titles
 
-The test cases with steps can be viewed here: [test_cases.pdf]().
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/blob/main/PDF%20(Jira).pdf).
 ## 1.5 Test implementation
  The following elements are needed to be ready before the test execution phase begins:
 * Testing environment is up and running: https://demo.opencart.com/admin/
