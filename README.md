@@ -84,7 +84,7 @@ The test cases with steps can be viewed here: [test_cases.pdf](https://github.co
   * Full regression testing is needed after the bugs are fixed.
   ## 1.7 Test Completion
 * Exit criteria was evaluated and passed.
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
+* The traceability matrix was generated and can be found here: [Traceability_matrix](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/blob/main/Traceability%20Report%20(Direct%20Only)%20(Jira).pdf)
 * Test execution chart was generaetd, the final report shows...describe it
 -enter here the final report
 # 2 SQL section
