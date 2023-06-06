@@ -61,21 +61,7 @@ The entry criterias defined in th Test Planning phase have been achieved and the
 
 The testing process will be executed based on the above  requirements for the 'Manufacturers' module. 
 
-The following **test conditions** were found: 
-* Check if an Admin is able to access the 'Manufacturers' section.
-* Check if an Admin is able to sort manufacturers.
-* Check if an Admin is able to edit a manufacturer by pressing 'Edit ' button in the right.
-* Check if an Admin is able to delete a manufacturer name.
-* Check if an Admin is able to access details of a manufacturer from the list.
-* Check if an Admin is able to add a manufacturer name.
-* Check if an Admin is able to select store when more store are existing using the platform.
-* Check if an Admin is able to complete fileds in 'general feature" with valid information.
-* Check if an Admin is able to complete fileds in 'general feature" with invalid information.
-*  Check if an Admin is able to edit image in "general feature" "image" field.
-*  Check if an Admin is able to delete image in "general feature" " image" field.
-* Check if an Admin is able to add manufacutrer when fields are left in blank.
-* Check if a user is able to access the 'SEO' feature.
-* Check if a user is able to access the 'Design' feature.
+The following **test conditions** were found: [test conditions](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/blob/main/Web%20capture_6-6-2023_91918_itfclasses.atlassian.net.jpeg).
 
 ## 1.4 Test Design
  Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the  test design techniques used for generating test cases are:
