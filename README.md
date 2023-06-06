@@ -68,7 +68,7 @@ The following **test conditions** were found: [test conditions](https://github.c
 
 **Test cases**: -> enter here test cases or at least the titles
 
-The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/blob/main/PDF%20(Jira).pdf).
+The test cases with steps can be viewed here: [test_cases](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/blob/main/PDF%20(Jira).pdf).
 ## 1.5 Test implementation
  The following elements are needed to be ready before the test execution phase begins:
 * Testing environment is up and running: https://demo.opencart.com/admin/
@@ -76,11 +76,11 @@ The test cases with steps can be viewed here: [test_cases.pdf](https://github.co
 *	Create and prioritize test cases.
 * Access to the testing environment is given: 	Username: demo | Password: demo
 * Cycle summary was created.
-* Test cases were added to the cycle summary.
+* Test cases were added to the [cycle summary](https://github.com/VasiliuIonela/Poject-ITF-OpenCart/blob/main/ZFJ-Cycles-06-05-2023.csv).
 * Preparing test data and ensuring it is properly loaded in the test environment.
 ## 1.6 Test Execution
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
+* Test cases are executed on the created test Cycle summary: [cycle_summary]()
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs]()
   * Full regression testing is needed after the bugs are fixed.
   ## 1.7 Test Completion
 * Exit criteria was evaluated and passed.
